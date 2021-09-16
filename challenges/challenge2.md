@@ -4,8 +4,6 @@ Advanced: **Enterprise Scale Landing Zone**
 
 ![CAF Hackathon Header](/media/caf-hackathon-header.png)
 
-In this challenge we want to talk about the landing zone and the first two CAF modules.
-
 ## Challenge 2 - learn more about the reference implementations
 
 In this challenge you will make a whiteboard design session to find the best approach for Contoso to achieve the following objectives:
