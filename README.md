@@ -18,11 +18,11 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 ## Content in this Hackathon
 
-Introduction to **Enterprise Scale" and all critical design areas of Enterprise Scale, including a lot of discussions and best practice sharing. 
+While progressing in the cloud journey of Contoso Land Surveying the central IT department wants to learn more about the concept of a platform landing zone in Azure. Contoso understood that the Microsoft Cloud Adoption Framework offers best practices around an enterprise scale landing zone.
 
-TODO the contoso story
+For the success of the platform landing zone Contoso want to understand the decisions to be made and get recommendation for their implementation.
 
-### Critical Design areas covered
+### Critical Design areas to be covered
 
 - Enterprise Agreement (EA) enrollment and Azure Active Directory tenants
 - Identity and access management
@@ -35,22 +35,8 @@ TODO the contoso story
 
 ## Challenges in this Hackathon
 
-### Challenge 1 - Deploy Enterprise Scale template
+[Challenge 1](/challenges/challenge1.md) - First implementation of enterprise scale to get a better understanding.
 
-TODO: Contoso wants to have a better understanding -> Reference Implementation
-This challenge has the goal to deploy the adventure works reference implementation of Enterprise Scale including the integration into a GitHub deployment pipeline.
+[Challenge 2](/challenges/challenge2.md) - learn from the reference implementations
 
-[more details can be found here](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md)
-
-### Challenge 2 - learn more about the reference implementations
-TODO: COntoso want to understand the different approaches and wants to have a solution for a) UK only using UK DC in Azure  b) determine the best network solution for their ESLZ and c) a first approach for the diffent IT departmens to ensure that only the local IT + central IT has owner/contributer rights on the Subscriptions for the country
-
-The enterprsie scale 
-### Challenge 3 - Post deployment - learn some aspects of operating the platform
-
-TODO: Learn / Show case deplyoment of policies and of RBACs
-
-In this challenge the goal is to make the first deployment of a policy and a role assignment.
-
-[Let's start here...](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale#post-deployment-activities)
-
+[Challenge 3](challenges/challenge3.md) - deploy policies and role assignments using CI/CD pipeline
