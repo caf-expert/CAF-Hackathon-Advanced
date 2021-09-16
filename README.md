@@ -18,7 +18,9 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 ## Content in this Hackathon
 
-Introduction to **Enterprise Scale" and all critical design areas of Enterprise Scale, including a lot of discussions and best practice sharing.
+Introduction to **Enterprise Scale" and all critical design areas of Enterprise Scale, including a lot of discussions and best practice sharing. 
+
+TODO the contoso story
 
 ### Critical Design areas covered
 
@@ -35,9 +37,20 @@ Introduction to **Enterprise Scale" and all critical design areas of Enterprise 
 
 ### Challenge 1 - Deploy Enterprise Scale template
 
+TODO: Contoso wants to have a better understanding -> Reference Implementation
 This challenge has the goal to deploy the adventure works reference implementation of Enterprise Scale including the integration into a GitHub deployment pipeline.
 
 [more details can be found here](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md)
 
-### Challenge 2 - Deploy your own enterprise scale basics
+### Challenge 2 - learn more about the reference implementations
+TODO: COntoso want to understand the different approaches and wants to have a solution for a) UK only using UK DC in Azure  b) determine the best network solution for their ESLZ and c) a first approach for the diffent IT departmens to ensure that only the local IT + central IT has owner/contributer rights on the Subscriptions for the country
+
+The enterprsie scale 
+### Challenge 3 - Post deployment - learn some aspects of operating the platform
+
+TODO: Learn / Show case deplyoment of policies and of RBACs
+
+In this challenge the goal is to make the first deployment of a policy and a role assignment.
+
+[Let's start here...](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale#post-deployment-activities)
 
