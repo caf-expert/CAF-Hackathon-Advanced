@@ -6,7 +6,7 @@ Advanced: **Enterprise Scale Landing Zone**
 
 ## Challenge 1
 
-Contoso wants to have a better understanding about the structure in an enterprise scale landing zone. the decided to use one of the reference implementations in the documentation.
+Contoso wants to have a better understanding about the structure in an enterprise scale landing zone. They decided to use one of the reference implementations in the documentation.
 
 This challenge has the goal to deploy the adventure works reference implementation of Enterprise Scale including the integration into a GitHub deployment pipeline.
 
