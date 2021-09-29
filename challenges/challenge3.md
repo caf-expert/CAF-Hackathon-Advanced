@@ -10,4 +10,4 @@ In this challenge the goal is to make the first deployment of a policy and a rol
 
 Use the enterprise scale documentation to go through the steps to present the assignment.
 
-![Let's start here...](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale#post-deployment-activities)
+[Let's start here...](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale#post-deployment-activities)
