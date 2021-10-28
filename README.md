@@ -14,6 +14,7 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 - [MS Learn Module Governance Methodology](https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/)
 - [MS Learn Module Enterprise Scale](https://docs.microsoft.com/learn/paths/enterprise-scale-architecture/)
+- [MS Learn Module Well Architected Framework](https://docs.microsoft.com/learn/paths/azure-well-architected-framework/)
 - Access to an **Azure tenant** with full access and a **subscription** in this tenant with owner rights.
 
 ## Content in this Hackathon
@@ -32,6 +33,16 @@ For the success of the platform landing zone Contoso want to understand the deci
 - Business continuity and disaster recovery
 - Security governance and compliance
 - Platform automation and DevOps
+
+### Well architected framework intro
+
+We go thru the framework and the five pillars of architectural excellence:
+
+- Reliability
+- Security
+- Cost Optimization
+- Operational Excellence
+- Performance Efficiency
 
 ## Challenges in this Hackathon
 
