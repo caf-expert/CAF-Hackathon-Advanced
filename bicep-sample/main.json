@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "metadata": {
+    "_generator": {
+      "name": "bicep",
+      "version": "0.4.1272.37030",
+      "templateHash": "1051778543145341313"
+    }
+  },
+  "parameters": {
+    "namePrefix": {
+      "type": "string",
+      "defaultValue": "prefix"
+    },
+    "sku": {
+      "type": "string",
+      "defaultValue": "B1"
+    },
+    "myLoc": {
+      "type": "string",
+      "defaultValue": "[resourceGroup().location]"
+    }
+  },
+  "resources": [
+    {
+      "type": "Microsoft.Web/serverfarms",
+      "apiVersion": "2021-03-01",
+      "name": "[format('{0}-myAppPlan1', parameters('namePrefix'))]",
+      "location": "[parameters('myLoc')]",
+      "kind": "linux",
+      "sku": {
+        "name": "[parameters('sku')]"
+      },
+      "properties": {
+        "reserved": true
+      }
+    }
+  ]
+}

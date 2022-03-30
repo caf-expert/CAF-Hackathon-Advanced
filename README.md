@@ -51,3 +51,8 @@ We go thru the framework and the five pillars of architectural excellence:
 [Challenge 2](/challenges/challenge2.md) - learn from the reference implementations
 
 [Challenge 3](challenges/challenge3.md) - deploy policies and role assignments using CI/CD pipeline
+
+
+## Additional input - Microsoft Bicep
+
+See the code sample provided in the **bicep-sample** Folder in this repo. There is also a [slidedeck](slides/Session%20IaC%20Bicep.pdf) provided.
