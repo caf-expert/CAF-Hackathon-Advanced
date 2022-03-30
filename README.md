@@ -55,4 +55,4 @@ We go thru the framework and the five pillars of architectural excellence:
 
 ## Additional input - Microsoft Bicep
 
-See the code sample provided in the **bicep-sample** Folder in this repo. There is also a [slidedeck](slides/Session%20IaC%20Bicep.pdf) provided.
+See the code sample provided in the **bicep-sample** Folder in this repo. There is also a [slidedeck](bicep-sample/Session%20IaC%20Bicep.pdf) provided.
